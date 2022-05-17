@@ -1,1 +1,3 @@
-# pipeline-practice-repo
+# maven-project
+
+Simple Maven Project
